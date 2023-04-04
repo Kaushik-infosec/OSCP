@@ -1,0 +1,12 @@
+admin
+Admin
+ADMIN
+admin@123
+Admin@123
+password
+Password
+PASSWORD
+Password123
+Password@123
+root
+toor

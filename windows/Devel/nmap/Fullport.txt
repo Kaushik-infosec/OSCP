@@ -1,0 +1,9 @@
+# Nmap 7.92 scan initiated Tue Apr  4 14:46:50 2023 as: nmap -p- -oN Fullport.txt 10.10.10.5
+Nmap scan report for 10.10.10.5
+Host is up (0.22s latency).
+Not shown: 65533 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+21/tcp open  ftp
+80/tcp open  http
+
+# Nmap done at Tue Apr  4 14:52:20 2023 -- 1 IP address (1 host up) scanned in 329.26 seconds
